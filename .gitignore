@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Datasets and caches
+datasets/
+cache/
+repro_cache/
+repro_runs/
+outputs/
+results/
+logs/
+
+# Temporary files
+.DS_Store
+*.log
+*.zip
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
